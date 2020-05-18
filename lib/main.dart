@@ -11,7 +11,7 @@ void main() {
         backgroundColor: Colors.blueGrey,
         body: Center(
           child: Image(
-              image: NetworkImage('https://www.mining.com/wp-content/uploads/2018/08/unnamed.jpg')
+              image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
